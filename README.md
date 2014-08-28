@@ -31,5 +31,31 @@ Using the mini-lesson above, write a bash script that will put all of the files 
 The `grep` command is awesome. It allows you to search through all of the text inside files and returns the line that contains the text you're looking for. For example, create a new file in your development directory called a_lot_of_text.txt, and then copy and paste all of the text from [this link](http://www.fullbooks.com/The-Adventures-of-Huckleberry-Finn-Complete1.html). Now, let's say we want to find all instances of the word 'dog'. We'd use the command:
 
 ```
-grep a_lot_of_text.txt dog
+grep dog a_lot_of_text.txt
 ```
+
+This will show you all of the lines with 'dog'
+
+If you want to search the text of many files in many directories, you can use the recursive flag `-r` to go through all files in directories within the start directory:
+
+```
+grep -r dog big_directory_with_sub_directories
+```
+
+### Challenge 2:
+
+Using the grep command, find out the following information:
+
++ How many calories does a serving of eggo waffles have?
++ What food is otherwise known as 'gorp'?
++ How many calories does a serving of broccoli have?
++ Which food has the word 'grapes' in its text file?
++ Which food may or may not be 'gluten free', based on its file text.
++ Winston Churchill is hiding in a food's text file. What food?
++ What food is used to ward off vampires?
++ How many calories in a serving of butter?
++ Name the food that has a joke about canteloupe hidden inside it.
++ What food has a youtube link inside of it?
++ What food has the word 'sprinkles' in it?
+
+
