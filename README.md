@@ -27,3 +27,9 @@ Using the mini-lesson above, write a bash script that will put all of the files 
 -All commands should be written in a shell script called `stock_supermarket.sh`
 
 ## Part 2: Search for code inside files
+
+The `grep` command is awesome. It allows you to search through all of the text inside files and returns the line that contains the text you're looking for. For example, create a new file in your development directory called a_lot_of_text.txt, and then copy and paste all of the text from [this link](http://www.fullbooks.com/The-Adventures-of-Huckleberry-Finn-Complete1.html). Now, let's say we want to find all instances of the word 'dog'. We'd use the command:
+
+```
+grep a_lot_of_text.txt dog
+```
