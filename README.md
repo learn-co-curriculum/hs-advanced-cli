@@ -1,5 +1,9 @@
-NOT ALLOWED TO CD ANYWHERE 
-ALL COMMANDS MUST BE WRITTEN IN A SHELL SCRIPT
+---
+tags: cli, shell-scripting, kids, bash
+language: bash
+level: 3
+type: stretch
+---
 
 # Advanced Command Line and Shell Scripting
 
