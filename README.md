@@ -10,7 +10,7 @@ type: stretch
 You've just been hired by your local grocery store to stock all of the shelves with a delivery that has come in from the warehouse. Congratulations on your new job.
 
 ### Get the files.
-If you are familiar with Github already, clone these files locally. Otherwise, go to [this github link](https://github.com/flatiron-school-curriculum/hs-advanced-cli) and click on the "Download Zip" button on the bottom-right side of the screen. Once you've downloaded the file, double click it to unzip the file, and then drag the unzipped file (called 'hs-advanced-cli-master') to your desktop.
+Go to [this github link](https://github.com/flatiron-school-curriculum/hs-advanced-cli) and if you are familiar with Github already, clone the repo locally. Otherwise click on the "Download Zip" button on the bottom-right side of the screen. Once you've downloaded the file, double click it to unzip the file, and then drag the unzipped file (called 'hs-advanced-cli-master') to your desktop.
 
 ## Part 1: Write a shell script.
 
