@@ -9,6 +9,9 @@ type: stretch
 
 You've just been hired by your local grocery store to stock all of the shelves with a delivery that has come in from the warehouse. Congratulations on your new job.
 
+### Get the files.
+If you are familiar with Github already, clone these files locally. Otherwise, go to [this github link](https://github.com/flatiron-school-curriculum/hs-advanced-cli) and click on the "Download Zip" button on the bottom-right side of the screen. Once you've downloaded the file, double click it to unzip the file, and then drag the unzipped file (called 'hs-advanced-cli-master') to your desktop.
+
 ## Part 1: Write a shell script.
 
 You've learned about the different commands in your terminal (ls, mv, rm, mkdir, touch, etc), but now we're going to learn how to string these commands together by using bash scripting. A bash script is essentially a file with a set of instructions inside of it that when called from the command line will run the commands in the order in which they are written in the file. For example, in your development directory create a file called `test_script.sh`. Open this file up in a text editor (such as Sublime). Add to the contents of the file:
