@@ -5,7 +5,7 @@ level: 3
 type: stretch
 ---
 
-# Advanced Command Line and Shell Scripting
+## Advanced Command Line and Shell Scripting
 
 You've just been hired by your local grocery store to stock all of the shelves with a delivery that has come in from the warehouse. Congratulations on your new job.
 
