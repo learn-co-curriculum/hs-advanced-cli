@@ -29,7 +29,7 @@ mv this_is_a_directory_made_in_a_script/second_file.txt another_directory
 Save and close the file and then run it in your terminal by typing `sh test_script.sh`. This will run all the commands in this bash script and if you look at your files once this is done (using `ls`), you'll find the two directories with their corresponding files that were created by running the script. Cool, eh?
 
 ### Challenge 1:
-Using the mini-lesson above, write a bash script that will put all of the files in the devlivery directory in their right locations. As part of the challenge:
+Using the mini-lesson above, write a bash script that will put all of the files in the delivery directory in their right locations. As part of the challenge:
 -You cannot CD into any directories, you must stay in the root directory of the project.
 -All commands should be written in a shell script called `stock_supermarket.sh`
 
