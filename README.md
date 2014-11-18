@@ -50,9 +50,9 @@ If you want to search the text of many files in many directories, you can use th
 grep -r dog big_directory_with_sub_directories
 ```
 
-### Challenge 2:
+### Challenge 2
 
-Using the grep command, find out the following information:
+Using the `grep` command, find out the following information:
 
 + How many calories does a serving of eggo waffles have?
 + What food is otherwise known as 'gorp'?
