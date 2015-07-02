@@ -27,7 +27,7 @@ mv this_is_a_directory_made_in_a_script/second_file.txt another_directory
 
 ```
 
-Save and close the file and then run it in your terminal by typing `sh test_script.sh`. This will run all the commands in this bash script, and if you look at your files once this is done (using `ls`), you'll find the two directories with their corresponding files that were created by running the script. Cool, eh?
+Save and close the file and then run it in your terminal by typing `sh test_script.sh`. This will run all the commands in this bash script. From the `hs-advanced-cli` directory, run `ruby test.rb` to check your progress! `test.rb` contains code that will check your placement of the files and folders to see if they are in the right place or not. This file will also print the result to the terminal screen, so you can keep track of which files and folders you've created.
 
 ### Challenge 1
 Using the mini-lesson above, write a bash script that will put all of the files in the delivery directory in their right locations. As part of the challenge:
