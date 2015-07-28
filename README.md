@@ -1,9 +1,4 @@
----
-tags: cli, shell-scripting, kids, bash
-language: bash
-level: 3
-type: stretch
----
+
 
 ## Advanced Command Line and Shell Scripting
 
