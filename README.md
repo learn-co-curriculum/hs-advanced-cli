@@ -60,3 +60,5 @@ Using the `grep` command, find out the following information:
 * Name the food that has a joke about canteloupe hidden inside it.
 * What food has a youtube link inside of it?
 * What food has the word _sprinkles_ in it?
+
+<a href='https://learn.co/lessons/hs-advanced-cli' data-visibility='hidden'>View this lesson on Learn.co</a>
