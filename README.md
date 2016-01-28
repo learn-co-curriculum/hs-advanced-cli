@@ -2,7 +2,7 @@
 
 ## Advanced Command Line and Shell Scripting
 
-![homer](http://i.minus.com/ibcFgNwxlZvAsC.gif)
+![simpsons grocery store](https://metrouk2.files.wordpress.com/2015/06/simpsons-2.gif)
 
 You've just been hired by your local grocery store to stock all the shelves with a delivery that has come in from the warehouse. Congratulations on your new job.
 
